@@ -1,68 +1,67 @@
-############################### team ############################
+---
 team:
-  enable : true
-  title : The YBTV Team
-  team_member :
-    # team member loop
-    - name : Maxwell O. Simba
-      image_webp : images/team/MaxwellSimba.jpg
-      image : images/team/MaxwellSimba.jpg
-      designation : CEO/Founder
-      content : Maxwell Simba is a trained Meisner actor from the Mason Gross School of Arts, NJ . Maxwell also has training on Directing, screenwriting and creative producing having worked on multiple Netflix sets and productions across the continent
-      social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        
-    # team member loop
-    - name : Johnson Thompson
-      image_webp : images/team/JohnsonThompson.jpg
-      image : images/team/team/JohnsonThompson.jpg
-      designation : Chief Photographer
-      content : Johnson has worked as a corporate and vacation photographer both in Tanzania and South Africa
-      social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        
-    # team member loop
-    - name : Kevin Kattam
-      image_webp : images/team/KattamKevin.jpg
-      image : images/team/KattamKevin.jpg
-      designation : Digital Designer
-      content : Kevin has been a digital designer that has worked on several self-inspired art works as campaigns of inspiring change
-      social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        
-    # team member loop
-    - name : Emmanuel Sakala
-      image_webp : images/team/SakalaEmm.webp
-      image : images/team/SakalaEmm.jpg
-      designation : Chief Composer/Music Producer
-      content : Emmanuel is an accomplished musical composer having produced a couple of songs for students at the United World Colleges in the United States
-      social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+  enable: true
+  title: The YBTV Team
+  team_member:
+  - name: Maxwell O. Simba
+    image_webp: images/team/MaxwellSimba.jpg
+    image: images/team/MaxwellSimba.jpg
+    designation: CEO/Founder
+    content: Maxwell Simba is a trained Meisner actor from the Mason Gross School
+      of Arts, NJ . Maxwell also has training on Directing, screenwriting and creative
+      producing having worked on multiple Netflix sets and productions across the
+      continent
+    social:
+    - icon: ti-facebook
+      link: "#"
+    - icon: ti-twitter-alt
+      link: "#"
+    - icon: ti-linkedin
+      link: "#"
+    - icon: ti-dribbble
+      link: "#"
+  - name: Johnson Thompson
+    image_webp: images/team/JohnsonThompson.jpg
+    image: images/team/team/JohnsonThompson.jpg
+    designation: Chief Photographer
+    content: Johnson has worked as a corporate and vacation photographer both in Tanzania
+      and South Africa
+    social:
+    - icon: ti-facebook
+      link: "#"
+    - icon: ti-twitter-alt
+      link: "#"
+    - icon: ti-linkedin
+      link: "#"
+    - icon: ti-dribbble
+      link: "#"
+  - name: Kattam Kevin
+    image_webp: images/team/KattamKevin.jpg
+    image: images/team/KattamKevin.jpg
+    designation: Digital Designer
+    content: Kevin has been a digital designer that has worked on several self-inspired
+      art works as campaigns of inspiring change
+    social:
+    - icon: ti-facebook
+      link: "#"
+    - icon: ti-twitter-alt
+      link: "#"
+    - icon: ti-linkedin
+      link: "#"
+    - icon: ti-dribbble
+      link: "#"
+  - name: Emmanuel Sakala
+    image_webp: images/team/SakalaEmm.webp
+    image: images/team/SakalaEmm.jpg
+    designation: Chief Composer/Music Producer
+    content: Emmanuel is an accomplished musical composer having produced a couple
+      of songs for students at the United World Colleges in the United States
+    social:
+    - icon: ti-facebook
+      link: "#"
+    - icon: ti-twitter-alt
+      link: "#"
+    - icon: ti-linkedin
+      link: "#"
+    - icon: ti-dribbble
+      link: "#"
