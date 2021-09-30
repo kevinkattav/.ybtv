@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  title : "Great Photoshoots & Professional Film-making"
+  content : "Art is in our blood, and we exemplify it through the exquisite photoshoots and films we do for our clients"
+  button:
+    enable : true
+    label : "Start a project with us"
+    link : "#contact"

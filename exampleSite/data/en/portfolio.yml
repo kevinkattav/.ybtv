@@ -1,0 +1,112 @@
+#################################### portfolio ###############################
+portfolio:
+  enable : true
+  title : Our Works
+  portfolio_item :
+    # portfolio item loop
+    - name : Individual Photos
+      image : images/portfolio/MuuoEmmanuelPic.jpg
+      image_webp : images/portfolio/MuuoEmmanuelPic.jpg
+      categories : ["personal/artistic photography"]
+     # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : ""
+      
+    # portfolio item loop
+    - name : Sound system
+      image : images/portfolio/ShootingItLeshamtha.jpg
+      image_webp : images/portfolio/ShootingItLeshamtha.jpg
+      categories : ["film-making"]
+     # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : ""
+      
+    # portfolio item loop
+    - name : Maxwell On Film
+      image : images/portfolio/MaxOnFilm.jpg
+      image_webp : images/portfolio/MaxOnFilm.jpg
+      categories : ["film-making", "personal/artistic photography"]
+     # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+      
+    # portfolio item loop
+    - name : ManVsMan
+      image : images/portfolio/ManOnMan.jpg
+      image_webp : images/portfolio/ManOnMan.jpg
+      categories : ["film-making"]
+     # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+      
+    # portfolio item loop
+    - name : FilmOnSet
+      image : images/portfolio/OnSet.jpg
+      image_webp : images/portfolio/OnSet.jpg
+      categories : ["film-making"]
+     # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+      
+    # portfolio item loop
+    - name : The Logicae Team 
+      image : images/portfolio/LogicaeTeam.jpg
+      image_webp : images/portfolio/LogicaeTeam.jpg
+      categories : ["professional/corporate photography"]
+     # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+      
+    # portfolio item loop
+    - name : GirlOnCar
+      image : images/portfolio/girlOnCar.jpg
+      image_webp : images/portfolio/girlOnCar.jpg
+      categories : ["film-making"]
+     # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+      
+    # portfolio item loop
+    - name : ManPonder
+      image : images/portfolio/ManPonder.jpg
+      image_webp : images/portfolio/ManPonder.jpg
+      categories : ["personal/artistic photography"]
+     # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+
+    # portfolio item loop
+    - name : LogicaeCEO
+      image : images/portfolio/LogicaeCedrique.jpg
+      image_webp : images/portfolio/LogicaeCedrique.jpg
+      categories : ["professional/corporate photography"]
+     # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+      
+    # portfolio item loop
+    - name : SmilingAfrican
+      image : images/portfolio/SmilingGuy.jpg
+      image_webp : images/portfolio/SmilingGuy.jpg
+      categories : ["personal/artistic photography"]
+     # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+
+    - name : A Logicae Team Member
+      image : images/portfolio/LogicaeDenis.jpg
+      image_webp : images/portfolio/LogicaeDenis.jpg
+      categories : ["professional/corporate photography"]
+     # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+
+    - name : A Second Logicae Team Member 
+      image : images/portfolio/LogicaeTemmy.jpg
+      image_webp : images/portfolio/LogicaeTemmy.jpg
+      categories : ["professional/corporate photography"]
+     # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+
+    - name : Les Sapeurs
+      image : images/portfolio/WellDressedMen.jpg
+      image_webp : images/portfolio/WellDressedMen.jpg
+      categories : ["personal/artistic photography"]
+     # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+
+    - name : Thinking Deep
+      image : images/portfolio/ThinkingDeep.jpg
+      image_webp : images/portfolio/ThinkingDeep.jpg
+      categories : ["personal/artistic photography"]
+     # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"

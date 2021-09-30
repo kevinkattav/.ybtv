@@ -1,0 +1,27 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/ShootingItLeshamtha.jpg
+  image_webp : images/about/ShootingItLeshamtha.jpg
+  title : We're A Film-making Studio.
+  content : We are an up and coming film-making studio, with a passion not only for the art in photography but also for Africa.
+  feature_item : 
+      # feature item loop
+    - title : High-fidelity Photoshoots
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : our photoshoots are HD standard with bright outlook
+      
+      # feature item loop
+    - title : Friendly Negotiative Pricing
+      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      content : Once you hire us and do our work for you, the price is negotatiated between you and us. Let's talk
+
+      # feature item loop
+    - title : Constant Feedback
+      icon : ti-comments # themify icon pack : https://themify.me/themify-icons
+      content : We appreciate feedback from our customers, as this helps us improve our work
+      
+      # feature item loop
+    - title : Flexible In Art Types
+      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      content : We can pivot to do you a video recording, a documentary, a movie or just simple photoshoots. We are polymathic photographers

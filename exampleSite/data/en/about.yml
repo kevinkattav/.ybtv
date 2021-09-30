@@ -1,0 +1,18 @@
+############################# About ###################################
+about:
+  enable : true
+  title : About Us
+  about_item :
+  - icon : ti-video-camera # themify icon pack : https://themify.me/themify-icons
+    title : We're Creative
+    content : Our photoshoots are never bland, we go an extra mile to infuse creativity in our work
+
+  - icon : ti-briefcase # themify icon pack : https://themify.me/themify-icons
+    title : We're Professional
+    content : We deal with our clients professionally, taking into account their needs and translating them into their results.
+
+  - icon : ti-thumb-up # themify icon pack : https://themify.me/themify-icons
+    title : We're Price-friendly
+    content : Our prices are friendly, and we negotiate with you along the way and according to the work we've done
+
+

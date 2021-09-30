@@ -1,0 +1,34 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Our Expertise
+  service_item :
+    # service item loop
+    - name : Film-making
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : 
+      
+    # service item loop
+    - name : Individual Photoshoots
+      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+      content : 
+      
+    # service item loop
+    - name : Group Photoshoots
+      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
+      content : 
+      
+    # service item loop
+    - name : Corporate Photoshoots
+      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+      content : 
+      
+    # service item loop
+    - name : Storytelling
+      icon : ti-package # themify icon pack : https://themify.me/themify-icons
+      content : 
+      
+    # service item loop
+    - name : Music Production
+      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      content : 

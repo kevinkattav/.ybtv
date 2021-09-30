@@ -1,0 +1,33 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Hire Us 
+  subtitle : Contact Details
+  content : Ready to hire us for your next photoshoot or film set, reach out to us through our contact details below,
+            or fill out the contact form on the right and send us a message.
+            Feel free as well, to share your questions with us through our contacts, we are always swift to respond.
+
+  # Contact details
+  contact_list:
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "1050 Printech Avenue, Jo'burg, Gauteng, South Africa"
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Phone: +27 60 481 6450"
+      
+   # - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
+    #  info : "Fax: +880-31-000-000"
+      
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: hello@youngbtvstudios.com"
+
+
+  # Contact form
+  contact_form:
+    enable : true
+    form_action : "https://formspree.io/f/moqpgroo" #contact form works with https://formspree.io
+    name : "Your Name"
+    email : "Your Email"
+    subject : "Subject"
+    message : "Message"
+    submit : "Submit"

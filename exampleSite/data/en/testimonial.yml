@@ -1,0 +1,23 @@
+################################# Testimonial #########################
+testimonial:
+  enable : true
+  bg_image : images/backgrounds/bg-testimonial.jpg
+  bg_image_webp : images/backgrounds/bg-testimonial.webp
+  testimonial_item :
+    # testimonial item loop
+    - name : Cedrique Wekesa, CEO @LogicaeScience
+      image : images/client/LogicaeCedriquepassport.jpg
+      image_webp : images/client/LogicaeCedriquepassport.webp
+      date : Jan 31, 2021
+      content : I was overly impressed by the level of professionalism and elegance with which YBTV handled
+                our corporate photoshoots. The results were reflective of their efficiency, skillset, and competence.
+                I love how they captured the essence of each of my teammantes at Logicae. The shoot was fun, they were super patient and they're most definitely worth the buck!
+
+    # testimonial item loop
+    - name : Nicole Gwindi, Head of Student Activities @ALA
+      image : images/client/GwendiNicole.jpg
+      image_webp : images/client/GwendiNicole.webp
+      date : Feb 3, 2021
+      content : Shooting a two-year old takes patience and creativity. This is what YBTV personified during my son's shoot.
+                I am grateful for the moments and milestones captured. I'll cherish them forever!
+

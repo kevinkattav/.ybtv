@@ -1,0 +1,21 @@
+################################# Skill ##################################
+skill:
+  enable : true
+  title : Our Skills
+  subtitle : 
+  content : 
+  image : images/YBTVLogo.jpg
+  skill_item :
+    # skill item loop
+    - name :  Professional Photgraphy
+      percent : 90%
+      
+    # skill item loop
+    - name :  Music Production
+      percent : 70%
+      
+    # skill item loop
+    - name :  Film-making
+      percent : 80%
+      
+    
