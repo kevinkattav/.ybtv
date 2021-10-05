@@ -1,12 +1,12 @@
-############################### Banner ################################
+---
 banner:
-  enable : true
-  bg_image_webp : "images/backgrounds/BusyShooting.jpg"
-  bg_image : "images/backgrounds/BusyShooting.jpg"
- # icon : "images/YBTVLogo.jpg" # themify icon pack : https://themify.me/themify-icons
-  title : "Young Blak & Talented Vision Studios"
-  content : "We Are A Film-Making Studio That Believes In Highly Creative, and Imaginative Storytelling"
+  enable: true
+  bg_image_webp: images/backgrounds/BusyShooting.jpg
+  bg_image: images/backgrounds/BusyShooting.jpg
+  title: ybtv
+  content: We Are A Film-Making Studio That Believes In Highly Creative, and Imaginative
+    Storytelling
   button:
-    enable : true
-    label : "Explore Us"
-    link : "#services"
+    enable: true
+    label: Explore Us
+    link: "#services"
